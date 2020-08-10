@@ -1,7 +1,7 @@
 # Adônis Dário
 
 Email: dariopgm@gmail.com
-Twitter: @darioPGM
+Twitter: https://www.twitter.com/darioPGM
 LinkedIn: https://www.linkedin.com/in/ad%C3%B4nis-d%C3%A1rio-806243191/
 
 EN:
