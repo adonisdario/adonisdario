@@ -1,8 +1,7 @@
 # Adônis Dário
 
 Email: dariopgm@gmail.com
-Twitter: https://www.twitter.com/darioPGM
-LinkedIn: https://www.linkedin.com/in/ad%C3%B4nis-d%C3%A1rio-806243191/
+LinkedIn: https://www.linkedin.com/in/adonis-dario-806243191
 
 EN:
 Studying Computer Science at UNICAP and Computer Engeneering at UPE/POLI;
